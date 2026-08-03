@@ -25,13 +25,11 @@ Writing C/C++, picking up Rust and Python along the way. Outside of that, I spen
 | [So_long](https://github.com/AbdoElbo/so_long) | A 2D game built with MiniLibX — animated player and collectibles, enemy AI, win/death screens |
 | [Philosophers](https://github.com/AbdoElbo/Philosophers) | A concurrency simulation exploring threads, mutexes, deadlocks, and race conditions |
 
-*(Swap `#` for your actual repo links)*
-
 ---
 
 <h3>GitHub Stats</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdoelbo&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Abdoelbo&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-![](https://komarev.com/ghpvc/?username=AbdoElbo&color=blue)
+
 
