@@ -2,16 +2,16 @@
 
 I'm someone who learns by building — and then breaking what I built, just to understand it better.
 
-Writing C/C++, picking up Rust and Python along the way. Outside of that, I spend a lot of time on TryHackMe rooms and CTFs — enough to be comfortable with Burp Suite, Metasploit, John the Ripper, and the usual suspects. My security knowledge is spread pretty wide right now — web, some binary stuff, some networking — rather than deep in one lane, and I'm fine with that for now.
+Writing C/C++, picking up Rust and Python along the way. Outside of that, I spend a lot of time on TryHackMe rooms and CTFs, enough to be comfortable with Burp Suite, Metasploit, John the Ripper, and the usual suspects. My security knowledge is spread pretty wide right now.. web, some binary stuff, some networking.. rather than deep in one lane, and I'm fine with that for now.
 
 ---
 
 ### Tools I use
 
-- **Burp Suite** — intercepting, tampering, poking at web requests
-- **Metasploit** — exploitation and post-exploitation basics
-- **John the Ripper** — password cracking / hash analysis
-- **Nmap, Wireshark** — recon and traffic analysis
+- **Burp Suite** : intercepting, tampering, poking at web requests
+- **Metasploit** : exploitation and post-exploitation basics
+- **John the Ripper** : password cracking / hash analysis
+- **Nmap, Wireshark** : recon and traffic analysis
 - CTF platforms: **TryHackMe**, occasional standalone CTFs
 
 ---
