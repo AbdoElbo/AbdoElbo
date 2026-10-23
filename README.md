@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm someone who learns by building — and then breaking what I built, just to understand it better.
+I'm someone who learns by building, and then breaking what I built, just to understand it better.
 
 Writing C/C++, picking up Rust and Python along the way. Outside of that, I spend a lot of time on TryHackMe rooms and CTFs, enough to be comfortable with Burp Suite, Metasploit, John the Ripper, and the usual suspects. My security knowledge is spread pretty wide right now.. web, some binary stuff, some networking.. rather than deep in one lane, and I'm fine with that for now.
 
@@ -20,9 +20,9 @@ Writing C/C++, picking up Rust and Python along the way. Outside of that, I spen
 
 | Project | Description |
 |---|---|
-| [Minishell](https://github.com/AbdoElbo/Minishell) | A simplified `bash`-like shell built from scratch — parsing, pipes, redirections, signals, built-ins |
+| [Minishell](https://github.com/AbdoElbo/Minishell) | A simplified `bash`-like shell built from scratch (parsing, pipes, redirections, signals, built-ins) |
 | [Cub3D](https://github.com/AbdoElbo/My_Cub3D) | A raycasting engine turned into a small first-person game with combat and enemies |
-| [So_long](https://github.com/AbdoElbo/so_long) | A 2D game built with MiniLibX — animated player and collectibles, enemy AI, win/death screens |
+| [So_long](https://github.com/AbdoElbo/so_long) | A 2D game built with MiniLibX (animated player and collectibles, enemy AI, win/death screens) |
 | [Philosophers](https://github.com/AbdoElbo/Philosophers) | A concurrency simulation exploring threads, mutexes, deadlocks, and race conditions |
 
 ---
